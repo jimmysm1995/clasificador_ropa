@@ -4,3 +4,6 @@ Aplicación web realizada con Streamlit para clasificar prendas de ropa y acceso
 
 El dataset con el que se ha entrenado el modelo es el Fashion MNIST de Zalando.
 
+## Enlace
+https://clasificadorropa-amszib5auuiuxjaynn9ky7.streamlit.app/
+
